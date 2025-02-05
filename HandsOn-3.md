@@ -22,5 +22,5 @@
        4. Will this increate how long it takes the algorithm to run (e.x. you are timing the function like in #2)?
        Ans. Newly add operation (y = i + j) in inner loop has constant time complexity of O(1).So,it will not significant impact on runtime of function.
 
-       6. Will it effect your results from #1?
+       5. Will it effect your results from #1?
        Ans. The changes will not affect the overall runtime complexity of the function. It remains O(n^2), Big-Omega(n^2), and Big-Theta(n^2).
